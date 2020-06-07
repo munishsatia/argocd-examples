@@ -1,4 +1,3 @@
 dependencies:
-- name: postgresql
-  repository: https://kubernetes-charts.storage.googleapis.com/
-  version: 8.2.0
+- name: sonarqube
+  repository: https://oteemo.github.io/charts/
